@@ -13,7 +13,7 @@ authors = [
     { name = "Lorenzo Padoan", email = "lorenzo.padoan977@gmail.com" }
 ]
 dependencies = [
-    "langchain==0.1.15",
+    "langchain==0.2.10",
     "langchain-openai==0.1.6",
     "langchain-google-genai==1.0.3",
     "langchain-groq==0.1.3",
